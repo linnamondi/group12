@@ -1,0 +1,8 @@
+﻿Write a program that determines whether a given  number is prime.Explore different ways to implement this check and consider efficiency for larger numbers.
+
+
+Algorithm
+1.Declare a function that takes in a number(n) as a parameter.
+2.Iterate from zero up to the square root of the number (n).
+3.For each number in the iteration check if the input is divisible by number(n).
+4.If a divisor is found then is not prime, if a divisor is found then n is a prime number.
